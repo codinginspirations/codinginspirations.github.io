@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{252:function(e,n,a){"use strict";a.r(n),a.d(n,"blogListQuery",(function(){return i}));var t=a(0),r=a.n(t),d=a(272),o=a(247),u=a(249),i="3270347378";n.default=function(e){var n=e.data.allMarkdownRemark.edges;return r.a.createElement(o.a,null,r.a.createElement(d.a,{maxWidth:"md",style:{paddingTop:"70px"}},n.map((function(e){return r.a.createElement(u.a,{key:e.node.id,post:e.node})}))))}}}]);
-//# sourceMappingURL=component---src-templates-blog-list-template-js-f3fbff861910111edf08.js.map
